@@ -5,4 +5,4 @@ The formula is saved to a file in CNF DIMACS format.
 
 Run `python local_negative_circuits.py -h` for a list of options.
 
-Reference: E. Tonello, E. Farcot and C. Chaouiya, _Local negative circuits and cyclic attractors in Boolean networks with n≤5_, 2018.
+Reference: E. Tonello, E. Farcot and C. Chaouiya, Local negative circuits and cyclic attractors in Boolean networks with at most five components, arXiv:1803.02095, 2018.
